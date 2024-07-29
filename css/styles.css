@@ -1,0 +1,57 @@
+div{
+    background-color: #eaf9f5;
+}
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather' , serif;
+}
+
+h1{
+    margin: 50px auto 0 auto;    
+    font-family: 'sacramento' , cursive;
+    color: #66BFBF;
+    font-size: 437.5%;
+}
+h2{
+    font-family: 'montserrat' , sans-serif;
+    font-size: 200%;
+    font-weight: normal;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'montserrat' , sans-serif;
+    color: #11999E;
+}
+.top-container{
+    background-color: #eaf9f5;
+    position: relative;
+    padding-top: 0;
+}
+.cloud1{
+    width: 230px;
+    height: 170px;
+    margin: 0;
+    position: relative;
+    left: 220px;
+    top: 80px;
+
+}
+.cloud{
+    width: 200px;
+    height: 140px;
+    position: absolute;
+}
+.aadi{
+    margin-top: 30px;
+}
+.mountain{
+    width: 700px;
+    height: 400px;
+}
+.web{
+    text-decoration: underline;
+}
+.circular{
+    width: 200px;
+}
